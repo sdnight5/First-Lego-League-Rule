@@ -24,7 +24,7 @@
 2. <p style="color:red; margin-bottom : 0px"> 분홍색 : 30점
 3. 주황색 : 10점
 
-<p style="font-size: 8px"> 억까하지마 FLL... 억까하지마 FLL...
+<p style="font-size: 8px"> 억까하지마 FLL...
 
 <br>
 
